@@ -1,0 +1,8 @@
+Warszawa,Wa01,UTC+1
+Berlin,Be01,UTC+1
+Rzym,Rz01,UTC+1
+NowyJork,NJ01,UTC-5
+LosAngeles,LA01,UTC-8
+Pekin,Pe01,UTC+8
+Tokio,To01,UTC+9
+Moskwa,Mo01,UTC+3

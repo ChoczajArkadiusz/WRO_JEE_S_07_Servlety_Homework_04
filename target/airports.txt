@@ -1,0 +1,5 @@
+Warszawa,Wa01,CET+1
+Berlin,Be01,CET+1
+Rzym,Rz01,CET+1
+NowyJork,NJ01,CET-8
+Tokio,To01,CET+8
