@@ -16,7 +16,7 @@
     <h4>  Zadanie 10  </h4><br>
     <%@include file="header.jsp" %>
     <p>
-        Witaj na stronie 1
+        Witaj na stronie 2
     </p>
     <%@include file="footer.jsp" %>
 </body>

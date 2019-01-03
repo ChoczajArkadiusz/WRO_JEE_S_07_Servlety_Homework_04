@@ -16,8 +16,18 @@
     <h4>  Zadanie 10  </h4><br>
     <%@include file="header.jsp" %>
     <p>
-        Witaj na stronie 1
+        Witaj na stronie 4
     </p>
+    <br>
+    <h4> Historia odwiedzonych stron: </h4>
+    <c:forEach items="${history}" var="pageNumber">
+        ${pageNumber} <br>
+    </c:forEach>
+    <br>
+    <form action="/history" method="post">
+        <input type="submit" value="Wyczyść historię">
+    </form>
+    <br>
     <%@include file="footer.jsp" %>
 </body>
 </html>
